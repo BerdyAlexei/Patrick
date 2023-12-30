@@ -14,6 +14,8 @@
 
 You can find all versions of *Patrick* here: https://github.com/BerdyAlexei/Patrick/releases
 
+![application](https://github.com/BerdyAlexei/Patrick/assets/108490702/e9004b93-aadb-44e7-b89b-2c86d709a753)
+
 Here you can directly download the version of *Patrick* that meets your preferences:
 
 - **[patrick-classic](https://github.com/BerdyAlexei/Patrick/releases/download/patrick-1.0/patrick-classic.zip)**
@@ -27,8 +29,6 @@ Patrick with a dark and straight look.
 - **[patrick-bigger-classic](https://github.com/BerdyAlexei/Patrick/releases/download/patrick-1.0/patrick-bigger-classic.zip)** and **[patrick-bigger-modernized](https://github.com/BerdyAlexei/Patrick/releases/download/patrick-1.0/patrick-bigger-modernized.zip)**
 
 A couple of versions of *Patrick*'s two skins but with the UI enlarged for visual comfort.
-
-![application](https://github.com/BerdyAlexei/Patrick/assets/108490702/e9004b93-aadb-44e7-b89b-2c86d709a753)
 
 ## Social Media
 
