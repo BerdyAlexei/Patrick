@@ -8,7 +8,7 @@
 - Generate passwords as you indicate, either with letters, symbols, numbers or with custom words and phrases.
 - Store, organize and modify passwords generated or written by yourself.
 - Secure your passwords by encrypting them using the master key of your choice depending on whether you want it or not.
-- Customize the application colors and passwords, adapt Patrick to your aesthetic preferences!
+- Customize the application colors and passwords, adapt *Patrick* to your aesthetic preferences!
   
 ## Download
 
