@@ -1,0 +1,25 @@
+{
+    "use_key": null,
+    "position_x": null,
+    "position_y": null,
+    "pin_window": false,
+    "see_password": false,
+    "prefix": "",
+    "sufix": "",
+    "generate_letters": true,
+    "generate_accents": false,
+    "generate_uppercase": true,
+    "generate_lowercase": true,
+    "generate_numbers": true,
+    "generate_symbols": true,
+    "generate_custom_text": false,
+    "custom_text": "",
+    "password_length": "",
+    "custom_colors": {
+        "--background": "#483939",
+        "--letter": "#d9d9d9",
+        "--disabled": "#9c8181",
+        "--password_background": "#794f65",
+        "--password_letter": "#d9d9d9"
+    }
+}
