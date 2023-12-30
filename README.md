@@ -34,9 +34,9 @@ A couple of versions of *Patrick*'s two skins but with the UI enlarged for visua
 
 ## Social Media
 
-- My Youtube Channel: https://www.youtube.com/channel/@BerdyAlexeiEN
+- My Youtube channel: https://www.youtube.com/channel/@BerdyAlexeiEN
 
-- My Discord Server for technical support: https://discord.com/invite/KZC6e8ZuyF
+- My Discord server for technical support: https://discord.com/invite/KZC6e8ZuyF
 
 ## How it was made
 
