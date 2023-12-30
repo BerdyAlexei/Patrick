@@ -4,7 +4,6 @@
 *Patrick* is an application designed to provide a simple but secure way to manage your passwords safely and quickly, customizable and lightweight.
 
 ## What it can do
-![application](https://github.com/BerdyAlexei/Patrick/assets/108490702/e9004b93-aadb-44e7-b89b-2c86d709a753)
 
 - Generate passwords as you indicate, either with letters, symbols, numbers or with custom words and phrases.
 - Store, organize and modify passwords generated or written by yourself.
@@ -28,6 +27,8 @@ Patrick with a dark and straight look.
 - **[patrick-bigger-classic](https://github.com/BerdyAlexei/Patrick/releases/download/patrick-1.0/patrick-bigger-classic.zip)** and **[patrick-bigger-modernized](https://github.com/BerdyAlexei/Patrick/releases/download/patrick-1.0/patrick-bigger-modernized.zip)**
 
 A couple of versions of *Patrick*'s two skins but with the UI enlarged for visual comfort.
+
+![application](https://github.com/BerdyAlexei/Patrick/assets/108490702/e9004b93-aadb-44e7-b89b-2c86d709a753)
 
 ## Social Media
 
