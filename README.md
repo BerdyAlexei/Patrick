@@ -58,7 +58,7 @@ As long as you're using *Windows 7-32 bits* at least, yes.
 If you have tried it on any other operating system and it worked or not, please let me know.
 
 - #### What happens to my personal information?
-Any data you enter into *Patrick* is stored only and **exclusively on your computer**.
+Any data you enter into *Patrick* is stored only and ***exclusively on your computer***.
 
 ## About me
 
