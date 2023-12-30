@@ -35,6 +35,10 @@ A couple of versions of *Patrick*'s two skins but with the UI enlarged for visua
 
 - My Discord Server for technical support: https://discord.com/invite/KZC6e8ZuyF
 
+## How it was made
+
+Use *[PySide2](https://pypi.org/project/PySide2)* in *[Python 3.8.10 32-bit](https://www.python.org/downloads/release/python-3810)*, with the *[Inter](https://fonts.google.com/specimen/Inter)* font, *[Iconoir](https://iconoir.com)* icons, and *[Biscuit](https://github.com/Biscuit-Colorscheme/biscuit)* and *[Nord](https://github.com/nordtheme/nord)* color palettes
+
 ## FAQ
 
 - #### Is this a virus?
