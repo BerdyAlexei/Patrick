@@ -28,6 +28,8 @@ Patrick with a dark and straight look.
 
 A couple of versions of *Patrick*'s two skins but with the UI enlarged for visual comfort.
 
+## Screenshots
+
 ![application](https://github.com/BerdyAlexei/Patrick/assets/108490702/e9004b93-aadb-44e7-b89b-2c86d709a753)
 
 ## Social Media
