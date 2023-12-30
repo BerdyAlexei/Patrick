@@ -1,0 +1,7 @@
+QFrame {
+    background-color: --letter;
+}
+
+QLabel {
+    color: --background;
+}
