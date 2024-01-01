@@ -1,8 +1,0 @@
-QFrame {
-    background-color: --letter;
-    border-radius: 8px;
-}
-
-QLabel {
-    color: --background;
-}
