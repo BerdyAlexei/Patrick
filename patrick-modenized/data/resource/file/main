@@ -1,0 +1,152 @@
+QLineEdit, QPushButton {
+    background-color: transparent;
+    border: none;
+}
+
+/*
+    Arrr, me hearties be tellin' me that 'twas an impossible feat to stash variables in PySide's pseudo CSS.
+    Them folks be wrong (technically they didn't, aye). 🦜
+*/
+
+.full_rounded {
+    border-radius: 8px;
+}
+
+::placeholder {
+    color: --disabled;
+}
+
+QMenu {
+    background-color: --disabled;
+    color: --letter;
+    border: 1px solid --background;
+}
+
+QScrollArea, QVBoxLayout, QWidget {
+    background-color: transparent;
+    border: none;
+}
+
+QLabel {
+    background-color: transparent;
+    color: --letter;
+}
+
+QLabel:disabled {
+    background-color: transparent;
+    color: --letter;
+}
+
+QCheckBox {
+    spacing: -32px; /* Yeah, I hate that minus too */
+}
+
+QCheckBox:indicator {
+    width: 32px;
+    height: 32px;
+}
+
+QCheckBox:indicator:unchecked {
+    image: none;
+}
+
+QCheckBox:indicator:checked {
+    image: none;
+}
+
+QCheckBox#configuration_window {
+    background-color: --background;
+    color: --letter;
+}
+
+QCheckBox:unchecked#configuration_window {
+    background-color: --disabled;
+    color: --letter;
+}
+
+QCheckBox#main_window {
+    background-color: transparent;
+    image: none;
+}
+
+QLabel.title {
+    padding-left: 8px;
+}
+
+QLabel.password, QLineEdit.password{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+QFrame#normal, QPushButton#normal {
+    background-color: --background;
+    color: --letter;
+}
+
+QLineEdit#normal, QLabel#normal {
+    color: --letter;
+}
+
+QFrame#inverted, QPushButton#inverted {
+    background-color: --letter;
+    color: --background;
+}
+
+QFrame#alternative {
+    background-color: --disabled;
+}
+
+QPushButton#text_button {
+    background-color: transparent;
+    color: --disabled;
+    text-decoration: underline;
+}
+
+QLineEdit#inverted {
+    color: --background;
+}
+
+QLabel#inverted {
+    background-color: transparent;
+    color: --disabled;
+}
+
+QPushButton#password_letter_main, QPushButton#password_background_main {
+    border: 2px solid --background;
+}
+
+QPushButton#password_letter_configuration, QPushButton#password_background_configuration {
+    border: none;
+}
+
+QPushButton#password_letter_configuration,QPushButton#password_letter_main {
+    background-color: --password_letter;
+}
+
+
+QPushButton#password_background_configuration, QPushButton#password_background_main {
+    background-color: --password_background;
+}
+
+QPushButton#application_background {
+    background-color: --background;
+    border: 2px solid --letter;
+}
+
+QPushButton#application_letter {
+    background-color: --letter;
+}
+
+QPushButton#application_disabled {
+    background-color: --disabled;
+    color: --letter;
+}
+
+#alternative {
+    background-color: --disabled;
+    color: --background;
+}
+
+:disabled{
+    color: --disabled;
+}
